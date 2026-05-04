@@ -50,14 +50,6 @@ Woolworths Food customers into four distinct behavioral groups to enable persona
 
 
 
-###  [](https://github.com/John31615/fitness-goal-tracker)
-
-Responsive web app for tracking workouts, goals, achievements, and progress.
-
-### [](https://github.com/John31615/plant-disease-detection-system)
-
-AI-powered system using TensorFlow Lite, Node.js, and SQL Server for real-time plant disease detection.
-
 ---
 
 ## 🎯 Current Focus
