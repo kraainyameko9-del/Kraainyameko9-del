@@ -40,7 +40,7 @@ I'm a **third-year Bachelor of Computing student** with a strong interest in **d
 
 Desktop superhero management system built with C# WinForms, featuring hero management, automatic ranking, and performance tracking.
 
-###  [BugTracking System](https://github.com/kraainyameko9-del/BugTrackingSystem-)
+### 🐞 [BugTracking System](https://github.com/kraainyameko9-del/BugTrackingSystem-)
 
 FastAPI-based machine learning API for detecting tomato plant diseases using a trained TensorFlow model.
 
