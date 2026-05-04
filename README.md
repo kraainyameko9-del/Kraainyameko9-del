@@ -42,7 +42,7 @@ Desktop superhero management system built with C# WinForms, featuring hero manag
 
 ### 🐞 [BugTracking System](https://github.com/kraainyameko9-del/BugTrackingSystem-)
 
-FastAPI-based machine learning API for detecting tomato plant diseases using a trained TensorFlow model.
+A web-based Bug Tracking System that uses JavaScript and the Web Storage API to manage, assign, and persist software issue tickets across browser sessions.
 
 ###  [](https://github.com/John31615/PowerFitGym-Database-System)
 
