@@ -29,6 +29,7 @@ I'm a **third-year Bachelor of Computing student** with a strong interest in **d
 <p align="center">
   <img src="https://img.shields.io/badge/WinForms-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
  
 </p>
 
