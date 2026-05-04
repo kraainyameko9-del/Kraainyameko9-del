@@ -44,7 +44,7 @@ Desktop superhero management system built with C# WinForms, featuring hero manag
 
 A web-based Bug Tracking System that uses JavaScript and the Web Storage API to manage, assign, and persist software issue tickets across browser sessions.
 
-###  [](https://github.com/John31615/PowerFitGym-Database-System)
+###  [Stelselopsiener](https://github.com/John31615/PowerFitGym-Database-System)
 
 SQL Server database project demonstrating normalization, T-SQL, views, stored procedures, and triggers.
 
